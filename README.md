@@ -1,2 +1,7 @@
 # RandomWordGenerator
-generates random german-turkish words.
+
+## Words will be updated frequently.
+
+### References
+
+- klett-sprachen.de (Berliner Platz 1-2)
