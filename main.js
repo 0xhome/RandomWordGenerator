@@ -1,4 +1,4 @@
-var NumberOfWords = 50
+var NumberOfWords = 75
 
 var words = new BuildArray(NumberOfWords)
 
@@ -53,6 +53,32 @@ words[47] = "der Akzent > vurgu"
 words[48] = "die Aussprache > telaffuz"
 words[49] = "die Melodie > melodi"
 words[50] = "bitte > lütfen"
+
+words[51] = "nachsprechen > dinleyip tekrar etmek"
+words[52] = "auch > de/da, te/ta"
+words[53] = "üben > alıştırma yapmak"
+words[54] = "ạnkreuzen > çarpı koymak"
+words[55] = "einmal > bir defa"
+words[56] = "Guten Abend! > İyi akşamlar!"
+words[57] = "nọch einmal > bir defa daha"
+words[58] = "ọrdnen > sıraya koymak"
+words[59] = "schreiben > yazmak"
+words[60] = "spielen > oynamak"
+words[61] = "der Aussagesatz > bildirme cümlesi"
+words[62] = "das Beispiel > örnek"
+words[63] = "laut > sesli, yüksek sesle"
+words[64] = "lesen > okumak"
+words[65] = "das Vẹrb > fil"
+words[66] = "der Sạtz > cümle"
+words[67] = "der Stẹckbrief > yakalama müzekkeresi"
+words[68] = "das Chinesisch > Çince"
+words[69] = "das Ẹnglisch > İngilizce"
+words[70] = "das Französisch > Fransızca"
+words[71] = "das Koreanisch > Korece"
+words[72] = "das Pẹrsisch > Farsça"
+words[73] = "raten > tahmin etmek"
+words[74] = "das Spanisch > İspanyolca"
+words[75] = "das Türkisch > Türkçe"
 
 
 function BuildArray(size){
