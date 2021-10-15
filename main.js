@@ -1,4 +1,4 @@
-var NumberOfWords = 75
+var NumberOfWords = 100
 
 var words = new BuildArray(NumberOfWords)
 
@@ -79,6 +79,32 @@ words[72] = "das Pẹrsisch > Farsça"
 words[73] = "raten > tahmin etmek"
 words[74] = "das Spanisch > İspanyolca"
 words[75] = "das Türkisch > Türkçe"
+
+words[76] = "das Ukrainisch > Ukraynaca"
+words[77] = "wạs > ne"
+words[78] = "wer > kim"
+words[79] = "wohnen > (bir şehirde) oturmak"
+words[80] = "zuordnen > eşleştirmek"
+words[81] = "kontrollieren > kontrol etmek"
+words[82] = "genau > tam"
+words[83] = "liegen > bulunmak"
+words[84] = "das Portugiesisch > Portekizce"
+words[85] = "das Slowakisch > Slovakça"
+words[86] = "wo > nerede"
+words[87] = "ạnder > diğer"
+words[88] = "das Lẹrnplakat > öğrenme afişi"
+words[89] = "sạmmeln > toplamak"
+words[90] = "die Vẹrbform > fiil şekli"
+words[91] = "der Nạchbar > komşu"
+words[92] = "das Alphabet > alfabe"
+words[93] = "lẹrnen > öğrenmek"
+words[94] = "mịt > ile"
+words[95] = "der Rhythmus > ritm"
+words[96] = "nein > hayır"
+words[97] = "die Person > şahıs"
+words[98] = "die Leute > kişiler"
+words[99] = "das Deutsch > Almanca"
+words[100] = "verstehen > anlamak"
 
 
 function BuildArray(size){
