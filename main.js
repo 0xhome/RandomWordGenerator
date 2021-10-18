@@ -1,3 +1,5 @@
+// This is a language learning project. Therefore, the words are written one by one.
+
 var NumberOfWords = 200
 
 var words = new BuildArray(NumberOfWords)
